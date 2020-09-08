@@ -1,3 +1,4 @@
+shiny::runApp()
 # Coursera - Developing Data Products- Course Project
 
 # ui.R file for the shiny app
